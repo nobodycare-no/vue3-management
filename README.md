@@ -192,29 +192,32 @@ npm run preview
 
 截图目录：`docs/screenshots/`
 
-### 登录页
-
-![登录页](docs/screenshots/denglu.png)
-
-### 首页
-
-![首页](docs/screenshots/shouye.png)
-
-### 项目信息
-
-![项目信息](docs/screenshots/projectInfo.png)
-
-### 地质信息
-
-![地质信息](docs/screenshots/geologicalInfo.png)
-
-### 隧道信息
-
-![隧道信息](docs/screenshots/tunnelInfo.png)
-
-### 系统管理
-
-![系统管理](docs/screenshots/systemInfo.png)
+<table>
+  <tr>
+    <td align="center"><b>登录页</b></td>
+    <td align="center"><b>首页</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/denglu.png" alt="登录页" width="100%" /></td>
+    <td><img src="docs/screenshots/shouye.png" alt="首页" width="100%" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>项目信息</b></td>
+    <td align="center"><b>地质信息</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/projectInfo.png" alt="项目信息" width="100%" /></td>
+    <td><img src="docs/screenshots/geologicalInfo.png" alt="地质信息" width="100%" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>隧道信息</b></td>
+    <td align="center"><b>系统管理</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/tunnelInfo.png" alt="隧道信息" width="100%" /></td>
+    <td><img src="docs/screenshots/systemInfo.png" alt="系统管理" width="100%" /></td>
+  </tr>
+</table>
 
 ## License
 
