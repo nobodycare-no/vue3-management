@@ -48,6 +48,8 @@
 
 ```text
 vue3-management/
+├─ docs/
+│  └─ screenshots/           # README 项目截图目录
 ├─ src/                      # 前端源码
 │  ├─ api/                   # 接口地址与请求封装
 │  ├─ components/            # 通用组件
@@ -185,3 +187,35 @@ npm run preview
 
 - 确认项目根目录有 `upload` 目录（无则运行后自动创建）
 - 确认当前用户对项目目录有写入权限
+
+## 项目截图
+
+截图目录：`docs/screenshots/`
+
+### 登录页
+
+![登录页](docs/screenshots/denglu.png)
+
+### 首页
+
+![首页](docs/screenshots/shouye.png)
+
+### 项目信息
+
+![项目信息](docs/screenshots/projectInfo.png)
+
+### 地质信息
+
+![地质信息](docs/screenshots/geologicalInfo.png)
+
+### 隧道信息
+
+![隧道信息](docs/screenshots/tunnelInfo.png)
+
+### 系统管理
+
+![系统管理](docs/screenshots/systemInfo.png)
+
+## License
+
+仅用于学习与交流，欢迎 Star 与 Fork。
